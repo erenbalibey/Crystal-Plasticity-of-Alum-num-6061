@@ -45,14 +45,14 @@ COMPUTATIONAL MODELING AND SIMULATION OF MATERIALS
 
 **References**
 
-Callister, W. D., & Rethwisch, D. G. (2018). Materials Science and Engineering: An Introduction (10th ed.). John Wiley & Sons.
+[1] Callister, W. D., & Rethwisch, D. G. (2018). Materials Science and Engineering: An Introduction (10th ed.). John Wiley & Sons.
 
-Reyes-Ruiz, C., et al. (2015). Texture and lattice distortion study of an Al-6061-T6 alloy produced by ECAP. Materials Transactions, 56(11), 1781-1786.
+[2] Reyes-Ruiz, C., et al. (2015). Texture and lattice distortion study of an Al-6061-T6 alloy produced by ECAP. Materials Transactions, 56(11), 1781-1786.
 
-Zhang, K., et al. (2019). Assessment of advanced Taylor models... Int. Journal of Plasticity, 114, 144-160.
+[3] Zhang, K., et al. (2019). Assessment of advanced Taylor models... Int. Journal of Plasticity, 114, 144-160.
 
-Asaro, R. J. (1983). Micromechanics of crystals and polycrystals. Advances in Applied Mechanics, 23, 1-115.
+[4] Asaro, R. J. (1983). Micromechanics of crystals and polycrystals. Advances in Applied Mechanics, 23, 1-115.
 
-Lee, W. S., Shyu, J. C., & Chiou, S. T. (1999). Effect of strain rate on impact response and dislocation substructure of 6061-T6 aluminum alloy. Scripta materialia, 42(1), 51-56.
+[5] Lee, W. S., Shyu, J. C., & Chiou, S. T. (1999). Effect of strain rate on impact response and dislocation substructure of 6061-T6 aluminum alloy. Scripta materialia, 42(1), 51-56.
 
-Kumar, A., Hauser, F. E., & Dorn, J. E. (1968). Viscous drag on dislocations in aluminum at high strain rates. Acta Metallurgica, 16(9), 1189-1197.
+[6] Kumar, A., Hauser, F. E., & Dorn, J. E. (1968). Viscous drag on dislocations in aluminum at high strain rates. Acta Metallurgica, 16(9), 1189-1197.
